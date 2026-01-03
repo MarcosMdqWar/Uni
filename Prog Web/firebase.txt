@@ -1,15 +1,5 @@
 El siguiente objeto de configuración de Firebase contiene identificadores y claves:
 
-const firebaseConfig = {
-  apiKey: "AIzaSyAaWLIjFjySp5i5r1FtUXNW_XGnYQS_7cE",
-  authDomain: "backend---interfaces.firebaseapp.com",
-  databaseURL: "https://backend---interfaces-default-rtdb.firebaseio.com",
-  projectId: "backend---interfaces",
-  storageBucket: "backend---interfaces.appspot.com",
-  messagingSenderId: "779545171534",
-  appId: "1:779545171534:web:744d5fa34fbcb24852551f"
-};
-
 Admin: admin@hotmail.com pw: 123456
 Cliente: cliente@hotmail.com pw: 123456
 Otro: Juan@gmail.com pw: 123456
