@@ -1,0 +1,50 @@
+{
+  "-O7ey8gBFwfL30YKIv88": {
+    "apellido": "Martinez",
+    "correo": "jose@gmail.com",
+    "nombre": "Jose",
+    "nombre_tarjeta": "Mastercard",
+    "tarjeta": "4548",
+    "tipo": 1
+  },
+  "-O7eyqn19AgxntEcuMAM": {
+    "apellido": "Rodriguez",
+    "correo": "ruben@gmail.com",
+    "nombre": "'Ruben",
+    "nombre_tarjeta": "Visa",
+    "tarjeta": "4648",
+    "tipo": 1
+  },
+  "-O7ezZCaEoV2w_kkYzzj": {
+    "apellido": "Rada",
+    "correo": "rada@gmail.com",
+    "nombre": "'Ruben",
+    "nombre_tarjeta": "Mastercard",
+    "tarjeta": "4649",
+    "tipo": 1
+  },
+  "-OAUS7XTutdud752a8d6": {
+    "apellido": "Juanez",
+    "correo": "juan@gmail.com",
+    "nombre": "Juan",
+    "nombre_tarjeta": "Visa",
+    "tarjeta": "30",
+    "tipo": 1
+  },
+  "-OAUSifglJqSwlDq7eQt": {
+    "apellido": "Ramirez",
+    "correo": "ramirez@gmail.com",
+    "nombre": "Jose",
+    "nombre_tarjeta": "Visa",
+    "tarjeta": "30",
+    "tipo": 1
+  },
+  "-OAUW0UDVlIuH_EhwdUd": {
+    "apellido": "Dalmonte",
+    "correo": "admin@gmail.com",
+    "nombre": "Jose",
+    "nombre_tarjeta": "",
+    "tarjeta": "",
+    "tipo": 0
+  }
+}

@@ -1,0 +1,19 @@
+# Composer / PHP
+vendor/
+composer.lock
+
+# Node
+node_modules/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build / temp
+dist/
+build/
+*.log
