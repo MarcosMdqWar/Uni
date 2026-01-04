@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1702262879 source:d:\marcos\cosas de marcos\faq\prog2 (uaa - c y phyton)\parcial 2 - pila y arbol\parcial2 recuperatorio rehecho_\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"RecuRH.h"
+
+1702402121 d:\marcos\cosas de marcos\faq\prog2 (uaa - c y phyton)\parcial 2 - pila y arbol\parcial2 recuperatorio rehecho_\recurh.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1701977166 d:\marcos\cosas de marcos\faq\prog2 (uaa - c y phyton)\parcial 2 - pila y arbol\parcial2 recuperatorio rehecho_\recurh.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1701977166 source:d:\marcos\cosas de marcos\faq\prog2 (uaa - c y phyton)\parcial 2 - pila y arbol\parcial2 recuperatorio rehecho_\recurh.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
