@@ -2,7 +2,7 @@ package tp;
 
 import java.util.Date;
 /**
- * @author Marcos Joel Depaula
+ * @author Marcos
  * 
  */
 public class Orden {

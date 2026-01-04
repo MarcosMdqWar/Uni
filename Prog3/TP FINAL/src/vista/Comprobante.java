@@ -5,7 +5,7 @@ import java.awt.*;
 import java.awt.print.*;
 
 /**
- * @author Marcos Joel Depaula
+ * @author Marcos
  * 
  * Genera un comprobante de pago cuando se agregar una orden de compra [!].
  * 

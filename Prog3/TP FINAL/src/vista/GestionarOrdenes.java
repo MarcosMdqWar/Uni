@@ -1,6 +1,6 @@
 package vista;
 /**
- * @author Marcos Joel Depaula
+ * @author Marcos
  * 
  */
 import conexion.Conexion;

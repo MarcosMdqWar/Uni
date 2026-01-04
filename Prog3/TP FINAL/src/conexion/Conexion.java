@@ -1,6 +1,6 @@
 package conexion;
 /**
- * @author Marcos Joel Depaula
+ * @author Marcos
  * 
  */
 import java.sql.Connection;

@@ -1,6 +1,6 @@
 package tp;
 /**
- * @author Marcos Joel Depaula
+ * @author Marcos
  * 
  */
 public class Cliente {

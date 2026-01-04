@@ -1,7 +1,7 @@
 package vista;
 
 /**
- * @author Marcos Joel Depaula
+ * @author Marcos
  * 
  */
 public class Error extends javax.swing.JFrame {

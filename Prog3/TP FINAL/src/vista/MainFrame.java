@@ -5,7 +5,7 @@ import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 import javax.swing.JFrame;
 /**
- * @author Marcos Joel Depaula
+ * @author Marcos
  * @version 1.0
  * Solución para el sector de gestión de inventario de una empresa (AFA). 
  * La aplicación permitirá gestionar productos, proveedores, clientes (Jugadores) y órdenes de compra.
