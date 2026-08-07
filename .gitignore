@@ -84,3 +84,11 @@ Prog Web/Laravel\ -\ Libro.pdf
 hs_err_pid*
 replay_pid*
 
+
+# Datos sensibles / personales (nunca subir)
+Prog Web/firebase.txt
+Prog Web/backend---interfaces-default-rtdb-clientes-export*.json
+Prog Web/.git_backup/
+nbproject/private/
+*.depend
+*.layout
